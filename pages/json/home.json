@@ -5,112 +5,173 @@
         "winInMdContent": "Собственное производство фирмы расположено в Молдове и оснащено современным высокоэффективным оборудованием, что позволяет предлагать жителям Молдовы самые выгодные на рынке цены на всю гамму продукции от производителя.",
         "name": "Этапы работы",
         "image": "/img/okno2.jpg",
-        "greenEvolution": "Модульная система greenEvolution",
-        "greenEvolutionContent": "Серия greenEvolution – новый шаг в разработке оконных конструкций. Долговечное пластиковое окно, которое одновременно хорошо смотрится и с фасада и в комнате? Многообразие декора и поверхностей из натуральных материалов позволяет реализовать все возможные стили: от классического консервативного до вызывающе современного. Шесть совместимых друг с другом производственных линеек серии профилей открывают безграничный простор для фантазии даже при нестандартной форме окна. Количество створок, покрытие, круглый или угловой рамочный профиль – все ваши требования легко воплощаются в жизнь. У нас всегда найдется подходящая профильная система для новостроек или реконструкции старых зданий.",
-        "greenEvolutionContentBox": [
+        "listing": [
             {
-                "name": "greenEvolution free",
-                "descript":"Дизайнерское окно в стандартной конструкции характеризуется рамой минимальной видимой ширины для максимального проникновения света. Эта особенность делает его идеальным для обустройства окон в исторических зданиях. Благодаря сочетанию с натуральными материалами уменьшенная конструкция обеспечивает широкий спектр возможностей оформления.",
-                "headSpecific":"Характеристики",
-                "specific":[
-                    {"content":"5-камерный профиль"},
-                    {"content":"упорное уплотнение и среднее уплотнение"},
-                    {"content":"монтажная глубина: 76 мм"},
-                    {"content":"Uw до = 0,75 Вт/(м²К)"},
-                    {"content":"остекление: до 48 мм"},
-                    {"content":"звукоизоляция: до 47 дБ"},
-                    {"content":"сопротивление взлому: до RC 2"}
-                ],
-                "image":"/img/greenEvolutionFree.jpg"
-            }, {
-                "name": "greenEvolution box",
-                "descript":"box характеризуется своей угловатой конструкцией. Угловатые формы и четкие линии создают современный и элегантный образ. Конструкция, в основе которой лежит алюминиевое окно, впечатляет рамой минимальной видимой ширины, креплением под стекло до 56 мм и максимальной звукоизоляцией.",
-                "headSpecific":"Характеристики",
-                "specific":[
-                    {"content":"7-камерный профиль"},
-                    {"content":"упорное уплотнение и среднее уплотнение"},
-                    {"content":"монтажная глубина: 76 мм"},
-                    {"content":"Uw = до 0,73 Вт/(м²К)"},
-                    {"content":"остекление: до 56 мм"},
-                    {"content":"звукоизоляция: до 48 дБ"},
-                    {"content":"сопротивление взлому: до RC 2"}
-                ],
-                "image":"/img/greenEvolutionbox.jpg"
-            }, {
-                "name": "greenEvolution flex A",
-                "descript":"Толщина перегородки Class A в конструкции flex A обеспечивает высочайшее качество и функциональность окон в течение десятилетий с высоким показателем энергосбережения. Наша стандартная конструкция с 6-камерной створкой и рамой. Благодаря натуральным материалам поверхностей конструкция не имеет ограничений и вписывается в стиль здания как внутри, так и снаружи.",
-                "headSpecific":"Характеристики",
-                "specific":[
-                    {"content":"6-камерный профиль"},
-                    {"content":"упорное уплотнение и среднее уплотнение"},
-                    {"content":"монтажная глубина: 76 мм"},
-                    {"content":"Uw = до 0,73 Вт/(м²К)"},
-                    {"content":"остекление: до 48 мм"},
-                    {"content":"звукоизоляция: до 47 дБ"},
-                    {"content":"сопротивление взлому: до RC 2"}
-                ],
-                "image":"/img/greenEvolutionflexA.jpg"
-            }, {
-                "name": "greenEvolution curve",
-                "descript":"Вариант конструкции «curve» характеризуется округлым дизайном, гармоничным внешним видом и средиземноморским архитектурным стилем. Отличные показатели теплоизоляции позволяют снизить расходы на отопление и электроэнергию.",
-                "headSpecific":"Характеристики",
-                "specific":[
-                    {"content":"5-камерный профиль"},
-                    {"content":"упорное уплотнение и среднее уплотнение"},
-                    {"content":"монтажная глубина: 76 мм"},
-                    {"content":"Uw = до 0,73 Вт/(м²К)"},
-                    {"content":"остекление: до 48 мм"},
-                    {"content":"звукоизоляция: до 47 дБ"},
-                    {"content":"сопротивление взлому: до RC 2"}
-                ],
-                "image":"/img/greenEvolutioncurve.jpg"
-            },{
-                "name": "greenEvolution max",
-                "descript":"Наше эффективное окно для торговых объектов в стандартном дизайне. Идеально подходит для современных окон большой площади. Низкая высота обзора обеспечивает высокий уровень освещенности.",
-                "headSpecific":"Характеристики",
-                "specific":[
-                    {"content":"4-камерный профиль"},
-                    {"content":"упорное уплотнение и среднее уплотнение"},
-                    {"content":"монтажная глубина: 76 мм"},
-                    {"content":"Uw = до 0,77 Вт/(м²К)"},
-                    {"content":"остекление: до 48 мм"},
-                    {"content":"звукоизоляция: до 47 дБ"},
-                    {"content":"сопротивление взлому: до RC 2"}
-                ],
-                "image":"/img/greenEvolutionmax.jpg"
+                "Evolution": "Модульная система greenEvolution",
+                "EvolutionContent": "Серия greenEvolution – новый шаг в разработке оконных конструкций. Долговечное пластиковое окно, которое одновременно хорошо смотрится и с фасада и в комнате? Многообразие декора и поверхностей из натуральных материалов позволяет реализовать все возможные стили: от классического консервативного до вызывающе современного. Шесть совместимых друг с другом производственных линеек серии профилей открывают безграничный простор для фантазии даже при нестандартной форме окна. Количество створок, покрытие, круглый или угловой рамочный профиль – все ваши требования легко воплощаются в жизнь. У нас всегда найдется подходящая профильная система для новостроек или реконструкции старых зданий.",
+                "EvolutionContentBox": [
+                    {
+                        "name": "greenEvolution free",
+                        "descript": "Дизайнерское окно в стандартной конструкции характеризуется рамой минимальной видимой ширины для максимального проникновения света. Эта особенность делает его идеальным для обустройства окон в исторических зданиях. Благодаря сочетанию с натуральными материалами уменьшенная конструкция обеспечивает широкий спектр возможностей оформления.",
+                        "headSpecific": "Характеристики",
+                        "specific": [
+                            {
+                                "content": "5-камерный профиль"
+                            },
+                            {
+                                "content": "упорное уплотнение и среднее уплотнение"
+                            },
+                            {
+                                "content": "монтажная глубина: 76 мм"
+                            },
+                            {
+                                "content": "Uw до = 0,75 Вт/(м²К)"
+                            },
+                            {
+                                "content": "остекление: до 48 мм"
+                            },
+                            {
+                                "content": "звукоизоляция: до 47 дБ"
+                            },
+                            {
+                                "content": "сопротивление взлому: до RC 2"
+                            }
+                        ],
+                        "image": "/img/greenEvolutionFree.jpg"
+                    },
+                    {
+                        "name": "greenEvolution box",
+                        "descript": "box характеризуется своей угловатой конструкцией. Угловатые формы и четкие линии создают современный и элегантный образ. Конструкция, в основе которой лежит алюминиевое окно, впечатляет рамой минимальной видимой ширины, креплением под стекло до 56 мм и максимальной звукоизоляцией.",
+                        "headSpecific": "Характеристики",
+                        "specific": [
+                            {
+                                "content": "7-камерный профиль"
+                            },
+                            {
+                                "content": "упорное уплотнение и среднее уплотнение"
+                            },
+                            {
+                                "content": "монтажная глубина: 76 мм"
+                            },
+                            {
+                                "content": "Uw = до 0,73 Вт/(м²К)"
+                            },
+                            {
+                                "content": "остекление: до 56 мм"
+                            },
+                            {
+                                "content": "звукоизоляция: до 48 дБ"
+                            },
+                            {
+                                "content": "сопротивление взлому: до RC 2"
+                            }
+                        ],
+                        "image": "/img/greenEvolutionbox.jpg"
+                    },
+                    {
+                        "name": "greenEvolution flex A",
+                        "descript": "Толщина перегородки Class A в конструкции flex A обеспечивает высочайшее качество и функциональность окон в течение десятилетий с высоким показателем энергосбережения. Наша стандартная конструкция с 6-камерной створкой и рамой. Благодаря натуральным материалам поверхностей конструкция не имеет ограничений и вписывается в стиль здания как внутри, так и снаружи.",
+                        "headSpecific": "Характеристики",
+                        "specific": [
+                            {
+                                "content": "6-камерный профиль"
+                            },
+                            {
+                                "content": "упорное уплотнение и среднее уплотнение"
+                            },
+                            {
+                                "content": "монтажная глубина: 76 мм"
+                            },
+                            {
+                                "content": "Uw = до 0,73 Вт/(м²К)"
+                            },
+                            {
+                                "content": "остекление: до 48 мм"
+                            },
+                            {
+                                "content": "звукоизоляция: до 47 дБ"
+                            },
+                            {
+                                "content": "сопротивление взлому: до RC 2"
+                            }
+                        ],
+                        "image": "/img/greenEvolutionflexA.jpg"
+                    },
+                    {
+                        "name": "greenEvolution curve",
+                        "descript": "Вариант конструкции «curve» характеризуется округлым дизайном, гармоничным внешним видом и средиземноморским архитектурным стилем. Отличные показатели теплоизоляции позволяют снизить расходы на отопление и электроэнергию.",
+                        "headSpecific": "Характеристики",
+                        "specific": [
+                            {
+                                "content": "5-камерный профиль"
+                            },
+                            {
+                                "content": "упорное уплотнение и среднее уплотнение"
+                            },
+                            {
+                                "content": "монтажная глубина: 76 мм"
+                            },
+                            {
+                                "content": "Uw = до 0,73 Вт/(м²К)"
+                            },
+                            {
+                                "content": "остекление: до 48 мм"
+                            },
+                            {
+                                "content": "звукоизоляция: до 47 дБ"
+                            },
+                            {
+                                "content": "сопротивление взлому: до RC 2"
+                            }
+                        ],
+                        "image": "/img/greenEvolutioncurve.jpg"
+                    },
+                    {
+                        "name": "greenEvolution max",
+                        "descript": "Наше эффективное окно для торговых объектов в стандартном дизайне. Идеально подходит для современных окон большой площади. Низкая высота обзора обеспечивает высокий уровень освещенности.",
+                        "headSpecific": "Характеристики",
+                        "specific": [
+                            {
+                                "content": "4-камерный профиль"
+                            },
+                            {
+                                "content": "упорное уплотнение и среднее уплотнение"
+                            },
+                            {
+                                "content": "монтажная глубина: 76 мм"
+                            },
+                            {
+                                "content": "Uw = до 0,77 Вт/(м²К)"
+                            },
+                            {
+                                "content": "остекление: до 48 мм"
+                            },
+                            {
+                                "content": "звукоизоляция: до 47 дБ"
+                            },
+                            {
+                                "content": "сопротивление взлому: до RC 2"
+                            }
+                        ],
+                        "image": "/img/greenEvolutionmax.jpg"
+                    }
+                ]
             }
-
         ],
-        "bluEvolution": "Модульная система bluEvolution ",
-        "bluEvolutionContent": "Для более эффективной сохранности теплоизоляции в профиле bluEvolution  используется тройной уплотнитель. Три контура для уплотнения для притвора SHLEGEL Q-lon из каучука EPDM, не требующего смазки, с возможностью использования в температуре от 600С до 700C. Благодаря увеличению ширины монтажного профиля в 92 мм металлический  профиль  расположен глубоко внутри помещения после 3-х вентиляционных камер, что существенно снижает влияние металлов на потерю тепла от окон зимой.",
-        "bluEvolutionContentBox": [
+        "message": [
             {
-                "name": "greenEvolution free",
-                "descript":"Дизайнерское окно в стандартной конструкции характеризуется рамой минимальной видимой ширины для максимального проникновения света. Эта особенность делает его идеальным для обустройства окон в исторических зданиях. Благодаря сочетанию с натуральными материалами уменьшенная конструкция обеспечивает широкий спектр возможностей оформления.",
-                "headSpecific":"Характеристики",
-                "specific":[
-                    {"content":"5-камерный профиль"},
-                    {"content":"упорное уплотнение и среднее уплотнение"},
-                    {"content":"монтажная глубина: 76 мм"},
-                    {"content":"Uw до = 0,75 Вт/(м²К)"},
-                    {"content":"остекление: до 48 мм"},
-                    {"content":"звукоизоляция: до 47 дБ"},
-                    {"content":"сопротивление взлому: до RC 2"}
-                ],
-                "image":"/img/greenEvolutionFree.jpg"
-            }],
-        "message":[{
-            "name":"Напишите нам сообщение",
-            "descript":"Если у Вас есть вопросы или Вы желаете оставить заявку на замер окон, заполните форму, приведенную ниже.",
-            "warning":"* Все поля ОБЯЗАТЕЛЬНЫ для заполнения!",
-            "familie":"Ф. И. О.",
-            "tel":"Номер телефона",
-            "maill":"Электронная почта",
-            "theme":"Тема",
-            "themeHold":"Тема сообщения",
-            "txt":"Сообщение",
-            "button":"Отправить сообщение"
-        }],
+                "name": "Напишите нам сообщение",
+                "descript": "Если у Вас есть вопросы или Вы желаете оставить заявку на замер окон, заполните форму, приведенную ниже.",
+                "warning": "* Все поля ОБЯЗАТЕЛЬНЫ для заполнения!",
+                "familie": "Ф. И. О.",
+                "tel": "Номер телефона",
+                "maill": "Электронная почта",
+                "theme": "Тема",
+                "themeHold": "Тема сообщения",
+                "txt": "Сообщение",
+                "button": "Отправить сообщение"
+            }
+        ],
         "lang": "ru"
     },
     {
@@ -119,93 +180,173 @@
         "winInMdContent": "Producția proprie a companiei este situată în Moldova și este dotată cu echipamente moderne de înaltă eficiență, ceea ce ne permite să oferim moldovenilor cele mai avantajoase prețuri de pe piață pentru întreaga gamă de produse de la producător.",
         "name": "Etape de lucru",
         "image": "/img/okno2.jpg",
-        "greenEvolution": "Sistemul modular greenEvolution",
-        "greenEvolutionContent": "Prin intermediul greenEvolution, facem următorul pas în construcţia de ferestre. O fereastră durabilă din material plastic, care să se potrivească atât faţadelor, cât şi spaţiilor interioare? Cu ajutorul varietăţii de decoruri şi suprafeţe din realmaterial, se pot realiza toate stilurile imaginabile: De la stilul clasic purist, până la cel foarte modern. Prin intermediul celor şase linii de producţie compatibile pentru seria de profile, fantezia nu mai cunoaşte limite, nici în cazul formelor individuale de ferestre. Ideile dumneavoastră se transformă uşor în realitate, indiferent de numărul de aripi, de sistemele de şprosuri sau dacă profilul de cadru este rotund sau unghiular. Noi vă oferim sistemul de profile adecvat, atât în cazul proiectelor noi de construcţie, cât şi în cazul restaurărilor de clădiri vechi.",
-        "greenEvolutionContentBox": [
+        "listing": [
             {
-                "name": "greenEvolution free",
-                "descript":"Fereastra cu design standard se evidenţiază prin lăţimi exterioare minime pentru un acces maxim al luminii. Astfel, aceasta este foarte potrivită pentru ferestrele din clădirile istorice. Datorită combinaţiei cu realmaterial, design-ul redus asigură o varietate de posibilităţi optice.",
-                "headSpecific":"Specificații",
-                "specific":[
-                    {"content":"profil cu 5-camere"},
-                    {"content":"etanşare cu opritor şi etanşare centrală"},
-                    {"content":"adâncime constructivă: 76 mm  "},
-                    {"content":"până la Uw = 0,75 W/(m²K)"},
-                    {"content":"Vitraj: până la 48 mm"},
-                    {"content":"Protecţie fonică: până la 47 dB"},
-                    {"content":"Dispozitiv anti-efracţie: până la RC 2"}
-                ],
-                "image":"/img/greenEvolutionFree.jpg"
-            }, {
-                "name": "greenEvolution box",
-                "descript":"box se evidenţiază prin design-ul său unghiular. Formele unghiulare şi ghidajul liniar clar asigură un aspect modern şi elegant. Astfel, design-ul cu poziţie întredeschisă a ferestrei din aluminiu cu lăţime exterioară minimă, sticlă până la 56 mm şi o protecţie fonică maximă.",
-                "headSpecific":"Specificații",
-                "specific":[
-                    {"content":"Profil cu 7-camere"},
-                    {"content":"Etanşare cu opritor şi etanşare centrală"},
-                    {"content":"Adâncime constructivă: 76 mm"},
-                    {"content":"Uw = 0,73 W/(m²K)"},
-                    {"content":"Vitraj: până la 56 mm"},
-                    {"content":"Protecţie fonică: până la 48 dB"},
-                    {"content":"Dispozitiv anti-efracţie: până la RC 2"}
-                ],
-                "image":"/img/greenEvolutionbox.jpg"
-            },{
-                "name": "greenEvolution flex A",
-                "descript":"Prin grosimea peretelui Class A, flex A asigură o fereastră de înaltă calitate, cu o funcţionalitate pe parcursul mai multor decenii şi o eficienţă energetică ridicată. Design-ul nostru standard cu 6 camere, aripi şi cadru. Datorită suprafeţei din realmaterial, nu există limite în ceea ce priveşte design-ul – atât exteriorul, cât şi interiorul se potrivesc clădirii.",
-                "headSpecific":"Specificații",
-                "specific":[
-                    {"content":"Profil cu 6-camere"},
-                    {"content":"Etanşare cu opritor şi etanşare centrală"},
-                    {"content":"Adâncime constructivă: 76 mm"},
-                    {"content":"Uw = 0,73 W/(m²K)"},
-                    {"content":"Vitraj: până la 48 mm"},
-                    {"content":"Protecţie fonică: până la 47 dB"},
-                    {"content":"Dispozitiv anti-efracţie: până la RC 2"}
-                ],
-                "image":"/img/greenEvolutionflexA.jpg"
-            },{
-                "name": "greenEvolution curve",
-                "descript":"Varianta de design curve se evidenţiază prin design-ul său rotund, pentru un aspect armonios şi un stil arhitectural mediteranean. Valorile de izolaţie excelente permit eficientizarea costurilor de încălzire şi energie.",
-                "headSpecific":"Specificații",
-                "specific":[
-                    {"content":"Profil cu 5-camere"},
-                    {"content":"Etanşare cu opritor şi etanşare centrală"},
-                    {"content":"Adâncime constructivă: 76 mm"},
-                    {"content":"Uw = 0,73 W/(m²K)"},
-                    {"content":"Vitraj: până la 48 mm"},
-                    {"content":"Protecţie fonică: până la 47 dB"},
-                    {"content":"Dispozitiv anti-efracţie: până la RC 2"}
-                ],
-                "image":"/img/greenEvolutioncurve.jpg"
-            },{
-                "name": "greenEvolution max",
-                "descript":"Fereastra noastră eficientă pentru industria construcţiilor în design standard. Se potriveşte în mod ideal pentru ferestrele moderne, de dimensiuni mari. Înălţimea joasă a vederii asigură un acces mai bun al luminii.",
-                "headSpecific":"Specificații",
-                "specific":[
-                    {"content":"Profil cu 4-camere"},
-                    {"content":"Etanşare cu opritor şi etanşare centrală"},
-                    {"content":"Adâncime constructivă: 76 mm"},
-                    {"content":"Uw = 0,77 W/(m²K)"},
-                    {"content":"Vitraj: până la 48 mm"},
-                    {"content":"Protecţie fonică: până la 47 dB"},
-                    {"content":"Dispozitiv anti-efracţie: până la RC 2"}
-                ],
-                "image":"/img/greenEvolutionmax.jpg"
+                "Evolution": "Sistemul modular greenEvolution",
+                "EvolutionContent": "Prin intermediul greenEvolution, facem următorul pas în construcţia de ferestre. O fereastră durabilă din material plastic, care să se potrivească atât faţadelor, cât şi spaţiilor interioare? Cu ajutorul varietăţii de decoruri şi suprafeţe din realmaterial, se pot realiza toate stilurile imaginabile: De la stilul clasic purist, până la cel foarte modern. Prin intermediul celor şase linii de producţie compatibile pentru seria de profile, fantezia nu mai cunoaşte limite, nici în cazul formelor individuale de ferestre. Ideile dumneavoastră se transformă uşor în realitate, indiferent de numărul de aripi, de sistemele de şprosuri sau dacă profilul de cadru este rotund sau unghiular. Noi vă oferim sistemul de profile adecvat, atât în cazul proiectelor noi de construcţie, cât şi în cazul restaurărilor de clădiri vechi.",
+                "EvolutionContentBox": [
+                    {
+                        "name": "greenEvolution free",
+                        "descript": "Fereastra cu design standard se evidenţiază prin lăţimi exterioare minime pentru un acces maxim al luminii. Astfel, aceasta este foarte potrivită pentru ferestrele din clădirile istorice. Datorită combinaţiei cu realmaterial, design-ul redus asigură o varietate de posibilităţi optice.",
+                        "headSpecific": "Specificații",
+                        "specific": [
+                            {
+                                "content": "profil cu 5-camere"
+                            },
+                            {
+                                "content": "etanşare cu opritor şi etanşare centrală"
+                            },
+                            {
+                                "content": "adâncime constructivă: 76 mm  "
+                            },
+                            {
+                                "content": "până la Uw = 0,75 W/(m²K)"
+                            },
+                            {
+                                "content": "Vitraj: până la 48 mm"
+                            },
+                            {
+                                "content": "Protecţie fonică: până la 47 dB"
+                            },
+                            {
+                                "content": "Dispozitiv anti-efracţie: până la RC 2"
+                            }
+                        ],
+                        "image": "/img/greenEvolutionFree.jpg"
+                    },
+                    {
+                        "name": "greenEvolution box",
+                        "descript": "box se evidenţiază prin design-ul său unghiular. Formele unghiulare şi ghidajul liniar clar asigură un aspect modern şi elegant. Astfel, design-ul cu poziţie întredeschisă a ferestrei din aluminiu cu lăţime exterioară minimă, sticlă până la 56 mm şi o protecţie fonică maximă.",
+                        "headSpecific": "Specificații",
+                        "specific": [
+                            {
+                                "content": "Profil cu 7-camere"
+                            },
+                            {
+                                "content": "Etanşare cu opritor şi etanşare centrală"
+                            },
+                            {
+                                "content": "Adâncime constructivă: 76 mm"
+                            },
+                            {
+                                "content": "Uw = 0,73 W/(m²K)"
+                            },
+                            {
+                                "content": "Vitraj: până la 56 mm"
+                            },
+                            {
+                                "content": "Protecţie fonică: până la 48 dB"
+                            },
+                            {
+                                "content": "Dispozitiv anti-efracţie: până la RC 2"
+                            }
+                        ],
+                        "image": "/img/greenEvolutionbox.jpg"
+                    },
+                    {
+                        "name": "greenEvolution flex A",
+                        "descript": "Prin grosimea peretelui Class A, flex A asigură o fereastră de înaltă calitate, cu o funcţionalitate pe parcursul mai multor decenii şi o eficienţă energetică ridicată. Design-ul nostru standard cu 6 camere, aripi şi cadru. Datorită suprafeţei din realmaterial, nu există limite în ceea ce priveşte design-ul – atât exteriorul, cât şi interiorul se potrivesc clădirii.",
+                        "headSpecific": "Specificații",
+                        "specific": [
+                            {
+                                "content": "Profil cu 6-camere"
+                            },
+                            {
+                                "content": "Etanşare cu opritor şi etanşare centrală"
+                            },
+                            {
+                                "content": "Adâncime constructivă: 76 mm"
+                            },
+                            {
+                                "content": "Uw = 0,73 W/(m²K)"
+                            },
+                            {
+                                "content": "Vitraj: până la 48 mm"
+                            },
+                            {
+                                "content": "Protecţie fonică: până la 47 dB"
+                            },
+                            {
+                                "content": "Dispozitiv anti-efracţie: până la RC 2"
+                            }
+                        ],
+                        "image": "/img/greenEvolutionflexA.jpg"
+                    },
+                    {
+                        "name": "greenEvolution curve",
+                        "descript": "Varianta de design curve se evidenţiază prin design-ul său rotund, pentru un aspect armonios şi un stil arhitectural mediteranean. Valorile de izolaţie excelente permit eficientizarea costurilor de încălzire şi energie.",
+                        "headSpecific": "Specificații",
+                        "specific": [
+                            {
+                                "content": "Profil cu 5-camere"
+                            },
+                            {
+                                "content": "Etanşare cu opritor şi etanşare centrală"
+                            },
+                            {
+                                "content": "Adâncime constructivă: 76 mm"
+                            },
+                            {
+                                "content": "Uw = 0,73 W/(m²K)"
+                            },
+                            {
+                                "content": "Vitraj: până la 48 mm"
+                            },
+                            {
+                                "content": "Protecţie fonică: până la 47 dB"
+                            },
+                            {
+                                "content": "Dispozitiv anti-efracţie: până la RC 2"
+                            }
+                        ],
+                        "image": "/img/greenEvolutioncurve.jpg"
+                    },
+                    {
+                        "name": "greenEvolution max",
+                        "descript": "Fereastra noastră eficientă pentru industria construcţiilor în design standard. Se potriveşte în mod ideal pentru ferestrele moderne, de dimensiuni mari. Înălţimea joasă a vederii asigură un acces mai bun al luminii.",
+                        "headSpecific": "Specificații",
+                        "specific": [
+                            {
+                                "content": "Profil cu 4-camere"
+                            },
+                            {
+                                "content": "Etanşare cu opritor şi etanşare centrală"
+                            },
+                            {
+                                "content": "Adâncime constructivă: 76 mm"
+                            },
+                            {
+                                "content": "Uw = 0,77 W/(m²K)"
+                            },
+                            {
+                                "content": "Vitraj: până la 48 mm"
+                            },
+                            {
+                                "content": "Protecţie fonică: până la 47 dB"
+                            },
+                            {
+                                "content": "Dispozitiv anti-efracţie: până la RC 2"
+                            }
+                        ],
+                        "image": "/img/greenEvolutionmax.jpg"
+                    }
+                ]
             }
         ],
-        "message":[{
-            "name":"Scrie-ne un mesaj",
-            "descript":"Dacă aveți întrebări sau doriți să lăsați o cerere de măsurare a ferestrei, completați formularul de mai jos.",
-            "warning":"*Toate campurile sunt necesare!",
-            "familie":"Familie",
-            "tel":"Număr de telefon",
-            "maill":"E-mail",
-            "theme":"Temă",
-            "themeHold":"Subiectul mesajului",
-            "txt":"Mesaj",
-            "button":"Trimite un mesaj"
-        }],
+        "message": [
+            {
+                "name": "Scrie-ne un mesaj",
+                "descript": "Dacă aveți întrebări sau doriți să lăsați o cerere de măsurare a ferestrei, completați formularul de mai jos.",
+                "warning": "*Toate campurile sunt necesare!",
+                "familie": "Familie",
+                "tel": "Număr de telefon",
+                "maill": "E-mail",
+                "theme": "Temă",
+                "themeHold": "Subiectul mesajului",
+                "txt": "Mesaj",
+                "button": "Trimite un mesaj"
+            }
+        ],
         "lang": "md"
     }
 ]
